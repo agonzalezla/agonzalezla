@@ -16,8 +16,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=agonzalezla&count_private=true&theme=algolia&border_radius=10" alt="streak stats"/>
 <a href="https://github.com/agonzalezla">
+<!--
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agonzalezla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+-->
+<!--
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agonzalezla&layout=compact&langs_count=8&theme=algolia"/>
+-->
 </a>
 </p>
