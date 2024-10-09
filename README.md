@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agonzalezla.agonzalezla" /> 
+<br>
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Alberto</h1>
