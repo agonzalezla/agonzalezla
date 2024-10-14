@@ -9,6 +9,20 @@
 </div>
 
 <br>
+<h2 >📖 Certifications:</h2>
+
+* Lean Six Sigma White Belt (LSSWB)
+* Remote Work (RWPC)
+* Foundational C# with Microsoft
+* Business Intelligence Foundation (BIFPC)
+* Cybersecurity Awareness (CAPC)
+* Data analysis and processing with Python
+* Azure Administrator Associate (AZ-104)
+* C1b3rwall 
+* Innovation Management
+* Apple Product Professional Manager (2011, 2012, 2013, 2014, 2015)
+
+<br>
 <h2 >🔨 Languages and Tools:</h2>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=anaconda,apple,arch,arduino,azure,bash,cs,debian,docker,fastapi,git,grafana,github,gitlab,gmail,jenkins,linux,md,mint,nginx,prometheus,py,raspberrypi,sqlite,terraform,ubuntu,unity,vim,visualstudio,vscode,windows,ansible&perline=16" />
