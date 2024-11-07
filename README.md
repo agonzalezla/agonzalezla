@@ -11,6 +11,7 @@
 <br>
 <h2 >📖 Certifications:</h2>
 
+* Scrum Foundation (SFPC)
 * Lean Six Sigma White Belt (LSSWB)
 * Remote Work (RWPC)
 * Foundational C# with Microsoft
