@@ -14,14 +14,16 @@
 * Scrum Foundation (SFPC)
 * Lean Six Sigma White Belt (LSSWB)
 * Remote Work (RWPC)
-* Foundational C# with Microsoft
+* Foundational C# with Microsoft (freeCodeCamp & Microsoft)
 * Business Intelligence Foundation (BIFPC)
 * Cybersecurity Awareness (CAPC)
-* Data analysis and processing with Python
+* Data analysis and processing with Python (UNED)
 * Azure Administrator Associate (AZ-104)
-* C1b3rwall 
-* Innovation Management
-* Apple Product Professional Manager (2011, 2012, 2013, 2014, 2015)
+* C1b3rwall (2021, 2022, 2023) (CNP)
+* Computer Systems Management (IFCT0510)
+* Digital Marketing (DMPC)
+* Innovation Management (USAL)
+* Apple Product Professional Manager (2011, 2012, 2013, 2014, 2015) (APPLE)
 
 <br>
 <h2 >🔨 Languages and Tools:</h2>
