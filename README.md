@@ -25,12 +25,20 @@
 * Innovation Management (USAL)
 * Apple Product Professional Manager (2011, 2012, 2013, 2014, 2015) (APPLE)
 
+
 <br>
 <h2 >🔨 Languages and Tools:</h2>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=anaconda,apple,arch,arduino,azure,bash,cs,debian,docker,fastapi,git,grafana,github,gitlab,gmail,jenkins,linux,md,mint,nginx,prometheus,py,raspberrypi,sqlite,terraform,ubuntu,unity,vim,visualstudio,vscode,windows,ansible&perline=16" />
   </a>
 </p>
+<br>
+
+<br>
+<h2 >✉️ Contact:</h2>
+
+Email: agonzalezla@protonmail.com
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
