@@ -8,15 +8,15 @@
 
 ## 📜 Sobre mí
 
-- Apasionado por el cloud computing, la ciberseguridad y la automatización
-- Desarrollo videojuegos indie en mi tiempo libre  
-- Aprendiz constante: combino especialización tecnológica con visión de negocio  
-- Defensor del open‑source, la arquitectura limpia y la cultura DevSecOps 
+- Apasionado por el cloud computing, la ciberseguridad y la automatización.
+- Desarrollo videojuegos indie en mi tiempo libre.  
+- Aprendiz constante: combino especialización tecnológica con visión de negocio.  
+- Defensor del open‑source, la arquitectura limpia y la cultura DevSecOps. 
 
 
 ## 💼 Experiencia Laboral
 
-Actualmente lidero la implantación del Esquema Nacional de Seguridad (ENS) en una de las compañias mas potentes de e-learning en España, asumiendo el rol de responsable de seguridad además de mis funciones como líder técnico del equipo de sistemas cloud. Entre mis responsabilidades se incluye la alineación con las normas ISO 27001 e ISO 20000, garantizando la correcta gestión de la seguridad de la información y de los servicios TI, y superando con éxito tanto las auditorías internas como externas. Mi trabajo combina la parten técnica con la supervisión de la estrategia de seguridad, asegurando que las plataformas cloud cumplan los más altos estándares de disponibilidad, resiliencia y cumplimiento normativo.
+Actualmente lidero la implantación del Esquema Nacional de Seguridad (ENS) en una de las compañias mas potentes de e-learning en España, asumiendo el rol de responsable de seguridad además de mis funciones como líder técnico del equipo de sistemas cloud. Entre mis responsabilidades se incluye la alineación con las normas ISO 27001 e ISO 20000, garantizando la correcta gestión de la seguridad de la información y de los servicios TI, y superando con éxito tanto las auditorías internas como externas. Mi trabajo combina la parte técnica con la supervisión de la estrategia de seguridad, asegurando que las plataformas cloud cumplan los más altos estándares de disponibilidad, resiliencia y cumplimiento normativo.
 
 Previo a mi posición actual, durante los últimos ocho años he desempeñado distintos roles que han marcado mi evolución profesional: inicié como técnico de sistemas, donde adquirí experiencia en administración y soporte; posteriormente fui responsable de sistemas, liderando proyectos de infraestructura y gestión operativa; y más adelante ejercí como desarrollador de sistemas cloud, diseñando arquitecturas en Azure promoviendo la adopción de tecnologías de automatización y desarrollando la infraestructura de la compañia, la migracion de sistemas antiguos a modelos mas modernos y creando sistemas de monitorización con reportes automáticos y métricas avanzadas que permiten optimizar el rendimiento, la seguridad y la disponibilidad de las plataformas.
 
@@ -75,6 +75,11 @@ Con más de 15 años de experiencia en el mercado de las telecomunicaciones, pro
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-Seguridad%20de%20la%20información-blue?style=for-the-badge)
 ![ISO 20000](https://img.shields.io/badge/ISO%2020000-Gestión%20de%20servicios%20TI-green?style=for-the-badge)
 ![ENS](https://img.shields.io/badge/ENS-Esquema%20Nacional%20de%20Seguridad-red?style=for-the-badge)
+![GlobalSuite](https://img.shields.io/badge/GlobalSuite-GRC%20%7C%20ISO%20%7C%20ENS-blue?style=for-the-badge)
+![Passwork](https://img.shields.io/badge/Passwork-Gestor%20de%20Contraseñas-purple?style=for-the-badge&logo=keepassxc&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Redmine](https://img.shields.io/badge/Redmine-Project%20Management-B32024?style=for-the-badge&logo=redmine&logoColor=white)
+
 
 ## 📬 Contacto
 
