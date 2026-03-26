@@ -81,11 +81,6 @@ Con más de 15 años de experiencia en el mercado de las telecomunicaciones, pro
 ![Redmine](https://img.shields.io/badge/Redmine-Project%20Management-B32024?style=for-the-badge&logo=redmine&logoColor=white)
 
 
-## 📬 Contacto
-
-- ✉️ **Email:** agonzalezla@protonmail.com 
-
-
 ## 📈 GitHub Analytics
 
 <p align="center">
