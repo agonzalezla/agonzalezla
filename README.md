@@ -5,7 +5,7 @@
 
 ## 📜 Sobre mí
 
-- Gestiono los departamentos de Sistemas Cloud, Sistemas IT y GRC (Gobernanza, Riesgos y Cumplimiento ).
+- Gestiono los departamentos de Sistemas Cloud, Sistemas IT y GRC (Gobernanza, Riesgos y Cumplimiento).
 - Mi objetivo es garantizar la confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad de la información y los servicios, sobre una infraestructura escalable, resiliente y eficiente, con el cumplimiento integrado en el día a día.
 - Apasionado por el cloud computing, la ciberseguridad y la automatización.
 - Aprendiz constante: combino especialización tecnológica con visión de negocio.
@@ -14,11 +14,19 @@
 
 ## 💼 Experiencia Laboral
 
-Desde febrero de 2026 ocupo el puesto de Cloud & Systems Manager en una compañía de referencia en e-learning, donde gestiono los departamentos de Sistemas Cloud, Sistemas IT y GRC, con responsabilidad sobre los equipos, la hoja de ruta tecnológica, la infraestructura y los servicios TI. Además, tengo asignado el rol ENS de Responsable de Seguridad, gestionando la implantación del Esquema Nacional de Seguridad en categoria media y la preparación de la organización para su primera auditoría de certificación. El ENS se integra con nuestros sistemas de gestión certificados en ISO 27001 e ISO 20000, cuyas auditorías superamos con éxito cada año. Mi trabajo combina la gestion técnica con la gestión de riesgos y la estrategia de seguridad, para que las plataformas cumplan los requisitos de disponibilidad, resiliencia y cumplimiento normativo.
+Desde febrero de 2026 ocupo el puesto de Cloud & Systems Manager en una compañía de referencia en e-learning, donde gestiono los departamentos de Sistemas Cloud, Sistemas IT y GRC, con responsabilidad sobre los equipos, la hoja de ruta tecnológica, la infraestructura y los servicios TI.
 
-Llegué a este puesto tras una evolución continua dentro del área de sistemas. Empecé en 2019 como Técnico de Sistemas, en administración y soporte. Entre 2020 y 2024 evolucioné de Junior a Senior de Sistemas Cloud, y en 2025 pasé a Arquitecto/Desarrollador de Sistemas Cloud: diseñé arquitecturas en Azure, impulsé la automatización y la infraestructura como código con Ansible, Puppet y Terraform, migré sistemas heredados a modelos modernos y actualice la plataforma centralizada de monitorización y seguridad con informes automáticos y métricas que optimizan el rendimiento, la seguridad y la disponibilidad.
+Además, tengo asignado el rol de Responsable de Seguridad del ENS, gestionando la implantación del Esquema Nacional de Seguridad en categoría media y la preparación de la organización para su primera auditoría de certificación. El ENS se integra con nuestros sistemas de gestión certificados en ISO 27001 e ISO 20000, cuyas auditorías superamos con éxito cada año.
 
-Antes de dedicarme a los sistemas, trabajé en consultoría técnica, telecomunicaciones y venta B2B en grandes empresas españolas. Asesoré a empresas y particulares en la adquisición de soluciones tecnológicas, ayudándoles a identificar sus necesidades y a optimizar sus inversiones. Esa etapa me dio una base sólida en comunicación, negociación y visión de negocio que hoy aplico en la gestión de equipos y en la relación con proveedores, clientes y auditores.
+Mi trabajo combina la gestión técnica con la gestión de riesgos y la estrategia de seguridad, para que las plataformas cumplan los requisitos de disponibilidad, resiliencia y cumplimiento normativo.
+
+Llegué a este puesto tras una evolución continua dentro del área de sistemas:
+- Empecé en 2019 como Técnico de Sistemas.
+- Entre 2020 y 2024 evolucioné de Junior a Senior de Sistemas Cloud.
+- En 2025 pasé a Arquitecto/Desarrollador de Sistemas Cloud: diseñé arquitecturas en Azure, impulsé la automatización e infraestructura como código con Ansible, Puppet y Terraform, migré sistemas heredados a modelos modernos y actualicé la plataforma centralizada de monitorización y seguridad.
+
+Antes de dedicarme a los sistemas, trabajé en consultoría técnica, telecomunicaciones y venta B2B en grandes empresas españolas. Esa etapa me dio una base sólida en comunicación, negociación y visión de negocio que hoy aplico en la gestión de equipos y en la relación con proveedores, clientes y auditores.
+
 
 ## 🏅 Certificaciones
 
