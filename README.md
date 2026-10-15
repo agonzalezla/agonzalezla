@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>👋 Hola, soy Alberto</h1>
   <h3>Cloud & Systems Manager</h3>
-  <p><em>Rol ENS: Responsable de Seguridad</em></p>
+  <p><em>ENS: Responsable de Seguridad</em></p>
 </div>
 
 ## 📜 Sobre mí
